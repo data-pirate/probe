@@ -1,4 +1,4 @@
-import { Probe } from "probe-js";
+import { Probe } from "probejs-core";
 
 // Example: Processing API Response
 const apiResponse = {

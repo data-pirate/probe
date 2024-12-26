@@ -1,4 +1,4 @@
-import { Probe, ProbeResult } from "probe-js";
+import { Probe, ProbeResult } from "probejs-core";
 
 // Define your types
 interface User {

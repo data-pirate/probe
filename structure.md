@@ -1,4 +1,4 @@
-probe-js/
+probejs-core/
 ├── src/
 │   ├── index.ts           # Main entry point
 │   ├── Probe.ts          # Core class

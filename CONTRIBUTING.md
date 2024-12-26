@@ -1,6 +1,6 @@
-# Contributing to probe-js
+# Contributing to probejs-core
 
-First off, thank you for considering contributing to probe-js! 
+First off, thank you for considering contributing to probejs-core! 
 
 ## Code of Conduct
 
@@ -21,8 +21,8 @@ This project adheres to a Code of Conduct. By participating, you are expected to
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/data-pirate/probe-js.git
-cd probe-js
+git clone https://github.com/data-pirate/probejs-core.git
+cd probejs-core
 ```
 
 2. Install dependencies:

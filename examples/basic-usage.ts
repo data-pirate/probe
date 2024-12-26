@@ -1,4 +1,4 @@
-import { Probe } from "probe-js";
+import { Probe } from "probejs-core";
 
 // Sample data structure
 const data = {

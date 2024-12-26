@@ -1,8 +1,8 @@
-# probe-js 🔍
+# probejs-core 🔍
 
-[![npm version](https://badge.fury.io/js/probe-js.svg)](https://badge.fury.io/js/probe-js)
-[![Build Status](https://github.com/data-pirate/probe-js/workflows/CI/badge.svg)](https://github.com/data-pirate/probe-js/actions)
-[![codecov](https://codecov.io/gh/data-pirate/probe-js/branch/main/graph/badge.svg)](https://codecov.io/gh/data-pirate/probe-js)
+[![npm version](https://badge.fury.io/js/probejs-core.svg)](https://badge.fury.io/js/probejs-core)
+[![Build Status](https://github.com/data-pirate/probejs-core/workflows/CI/badge.svg)](https://github.com/data-pirate/probejs-core/actions)
+[![codecov](https://codecov.io/gh/data-pirate/probejs-core/branch/main/graph/badge.svg)](https://codecov.io/gh/data-pirate/probejs-core)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A powerful and precise tool for traversing and investigating nested objects in JavaScript.
@@ -20,15 +20,15 @@ A powerful and precise tool for traversing and investigating nested objects in J
 ## Installation
 
 ```bash
-npm install probe-js
+npm install probejs-core
 # or
-yarn add probe-js
+yarn add probejs-core
 ```
 
 ## Quick Start
 
 ```typescript
-import { Probe } from 'probe-js';
+import { Probe } from 'probejs-core';
 
 const data = {
   users: {

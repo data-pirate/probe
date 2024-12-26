@@ -1,5 +1,5 @@
 {
-  "name": "probe-js",
+  "name": "probejs-core",
   "version": "1.0.0",
   "description": "A powerful tool for traversing and investigating nested objects",
   "main": "dist/index.js",
@@ -54,12 +54,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/data-pirate/probe-js.git"
+    "url": "git+https://github.com/data-pirate/probejs-core.git"
   },
   "bugs": {
-    "url": "https://github.com/data-pirate/probe-js/issues"
+    "url": "https://github.com/data-pirate/probejs-core/issues"
   },
-  "homepage": "https://github.com/data-pirate/probe-js#readme",
+  "homepage": "https://github.com/data-pirate/probejs-core#readme",
   "engines": {
     "node": ">=14.0.0"
   }
